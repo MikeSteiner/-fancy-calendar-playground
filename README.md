@@ -29,7 +29,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 # Helpful links and information
 
-## Generate multy-project workspace and projects + libs
+## Generate multi-project workspace and projects + libs
 [https://angular.io/guide/file-structure#multiple-projects]()
 
 `ng new fancy-calendar-playground --create-application false`
@@ -41,6 +41,10 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 `ng generate application todos`
 
 `ng generate application events`
+
+`ng generate application lib-shared`
+
+`ng generate application lib-components`
 
 
 ### How to remove an Angular library created with CLI (ng generate library)
